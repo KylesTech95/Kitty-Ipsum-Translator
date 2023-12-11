@@ -51,3 +51,6 @@ wc -m < kitty_ipsum_1.txt >> kitty_info.txt
 grep 'meow' .kitty_ipsum_1.txt
 grep 'meow' kitty_ipsum_1.txt
 man grep
+man grep --color
+man grep --color
+grep 'meow' --color kitty_ipsum_1.txt
