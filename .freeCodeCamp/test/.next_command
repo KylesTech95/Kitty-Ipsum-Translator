@@ -17,3 +17,9 @@ wc -c kitty_ipsum_1.txt
 man wc
 wc -m kitty_ipsum_1.txt
 wc kitty_ipsum_1.txt
+cat kitty_ipsum_1 < wc
+cat kitty_ipsum_1
+cat kitty_ipsum_1
+cat kitty_ipsum_1
+cat kitty_ipsum_1.tx
+cat kitty_ipsum_1.txt
