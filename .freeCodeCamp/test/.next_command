@@ -1,0 +1,4 @@
+.script.sh 2> stderr.txt
+.script.sh 2 < name.txt 2> stderr.txt
+./script.sh 2 < name.txt 2> stderr.txt
+./script.sh < name.txt 2> stderr.txt
