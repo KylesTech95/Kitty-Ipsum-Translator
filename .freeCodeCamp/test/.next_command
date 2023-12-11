@@ -64,3 +64,5 @@ __vsc_prompt_cmd_original
 clear
 grep 'meow[a-z]*' --color kitty_ipsum_1.txt
 grep -c 'meow[a-z]*' kitty_ipsum_1.txt
+grep -cw 'meow[a-z]*' kitty_ipsum_1.txt
+man grep
