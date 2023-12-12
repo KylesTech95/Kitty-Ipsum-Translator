@@ -135,3 +135,4 @@ __vsc_prompt_cmd_original
 echo -e "\nNumber of lines:" >> kitty_info.txt
 cat kitty_ipsum_2.txt
 cat kitty_ipsum_2.txt
+echo -e "\nNumber of words:" >> kitty_info.txt
