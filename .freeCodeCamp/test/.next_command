@@ -277,3 +277,8 @@ doggy_ipsum_2.txt
 ./translate.sh kitty_ipsum_2.txt >> doggy_ipsum_2.txt
 cat doggy_ipsum_2.txt
 diff --color kitty_ipsum_2.txt doggy_ipsum_2.txt
+git init
+git branch -M main
+git remote add origin https://github.com/KylesTech95/Kitty-Ipsum-Translator.git
+git pull origin main --allow-unrelated-histories
+git add .
