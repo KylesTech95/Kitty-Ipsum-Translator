@@ -231,3 +231,13 @@ grep --color 'dogchow' kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt
+grep 'dog' kitty_ipsum_1.txt
+grep --color 'dog' kitty_ipsum_1.txt
+grep --color 'dog[a-z]*' kitty_ipsum_1.txt
+.translate.sh
+./translate.sh
+__vsc_prompt_cmd_original
+./translate.sh
+./translate.sh kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt
