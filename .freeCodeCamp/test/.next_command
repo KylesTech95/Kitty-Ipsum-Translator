@@ -136,3 +136,17 @@ echo -e "\nNumber of lines:" >> kitty_info.txt
 cat kitty_ipsum_2.txt
 cat kitty_ipsum_2.txt
 echo -e "\nNumber of words:" >> kitty_info.txt
+cat kitty_ipsum_2.txt
+cat kitty_info.txt -w < wc
+cat kitty_info.txt < wc
+wc -w kitty_info.txt
+wc kitty_info.txt
+man wc
+wc -w kitty_info.txt
+wc -w kitty_info.txt
+cat kitty_info.txt
+cat kitty_ipsum_2.txt
+man wc
+wc --words kitty_info.txt
+wc -w < kitty_ipsum_2.txt
+wc -w < kitty_ipsum_2.txt >> kitty_info.txt
