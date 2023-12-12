@@ -167,3 +167,15 @@ grep -o 'meow[a-z]*' kitty_ipsum_2.txt
 echo -e
 echo -e "\nLines that they appear on:"
 echo -e "\nLines that they appear on:" >> kitty_info.txt
+grep -n 'meow[a-z]*'
+grep -n 'meow[a-z]*'
+man sed
+grep e-n 'meow[a-z]*'
+grep e-n'meow[a-z]*'
+__vsc_prompt_cmd_original
+grep e-n'meow[a-z]*'
+grep e-n'meow[a- *' meowd -E -E 's/([0-9]+).*/\1/' >> kitty_info.txt
+grep e-n'meow[a- *' meowd -E 's/([0-9]+).*/\1/' >> kitty_info.txt
+grep en' meow[[a-z]*'
+grep -n 'meow[a-z]*'kitty_ipsum_1.txt
+grep -n 'meow[a-z]*' kitty_ipsum_2.txt
