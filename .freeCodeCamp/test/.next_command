@@ -155,3 +155,8 @@ man wc
 wc -m < kitty_ipsum_2.txt >> kitty_info.txt
 man grep
 grep --color 'meow[a-z]*' kitty_ipsum_2.txt
+echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
+echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
+echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
+echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
+echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
