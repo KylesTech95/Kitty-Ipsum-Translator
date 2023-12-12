@@ -199,3 +199,8 @@ __vsc_prompt_cmd_original
 echo -e "\nLines that they appear n >> kitty_info.txt: "
 echo -e "nLines that they appear on:"
 echo -e "\nLines that they appear on:" >> kitty_info.txt
+grep -on 'cat[a-z]*' kitty_ipsum_2.txt
+grep -n 'meow[a-z]*' kitty_ipsum_2.txt
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+grep -n 'cat[a-z]*' kitty_ipsum_2.txt
