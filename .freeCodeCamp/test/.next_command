@@ -179,3 +179,12 @@ grep e-n'meow[a- *' meowd -E 's/([0-9]+).*/\1/' >> kitty_info.txt
 grep en' meow[[a-z]*'
 grep -n 'meow[a-z]*'kitty_ipsum_1.txt
 grep -n 'meow[a-z]*' kitty_ipsum_2.txt
+grep --colors -n 'cat[a-z]*' kitty_ipsum_2.txt
+grep -n 'cat[a-z]*' kitty_ipsum_2.txt
+grep -n 'ca--colors t[a-z]*' kitty_ipsum_2.txt
+grep -n 'ca--colors t[a-z]*' kitty_ipsum_2.txt
+grep -n 'c--colors alaa-z]*' kitty_ipsum_2.txt
+grep -n --colors 'cat[a-z]*' --colors kitty_ipsum_2.txt
+grep --colors 'cat[a-z]*' kitty_ipsum_2.txt
+man grep
+grep --color 'cat[a-z]*' kitty_ipsum_2.txt
