@@ -272,3 +272,6 @@ man diff
 di--color ff kitty_ipsum_1.txt doggy_ipsum_1.txt
 man diff
 diff --color kitty_ipsum_1.txt doggy_ipsum_1.txt
+./translate.sh kitty_ipsum_2.txt
+doggy_ipsum_2.txt
+./translate.sh kitty_ipsum_2.txt >> doggy_ipsum_2.txt
