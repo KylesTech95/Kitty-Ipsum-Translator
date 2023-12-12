@@ -253,3 +253,6 @@ __vsc_prompt_cmd_original
 sed man
 man sed
 ./translate.sh kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt
