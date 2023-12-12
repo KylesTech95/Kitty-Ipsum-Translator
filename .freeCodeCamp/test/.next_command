@@ -207,3 +207,4 @@ grep -n 'cat[a-z]*' kitty_ipsum_2.txt
 touch translate.sh
 ls --color=auto -l
 cat $1
+./translate.sh kitty_ipsum_1.txt
