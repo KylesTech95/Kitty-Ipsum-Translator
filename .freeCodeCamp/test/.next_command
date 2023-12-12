@@ -195,3 +195,7 @@ grep -o 'cat[a-z]*' kitty_ipsum_2.t
 grep -o 'cat[a-z]*' kitty_ipsum_2.txt
 grep -o 'cat[a-z]*' kitty_ipsum_2.txt
 grep -o 'cat[a-z]*' kitty_ipsum_2.txt
+__vsc_prompt_cmd_original
+echo -e "\nLines that they appear n >> kitty_info.txt: "
+echo -e "nLines that they appear on:"
+echo -e "\nLines that they appear on:" >> kitty_info.txt
