@@ -188,3 +188,4 @@ grep -n --colors 'cat[a-z]*' --colors kitty_ipsum_2.txt
 grep --colors 'cat[a-z]*' kitty_ipsum_2.txt
 man grep
 grep --color 'cat[a-z]*' kitty_ipsum_2.txt
+echo -e "\nNumber of times cat, cats, or catnip appears:" >> kitty_info.txt
